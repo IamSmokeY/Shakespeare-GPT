@@ -14,8 +14,8 @@ This project implements a decoder only GPT (Generative Pre-trained Transformer) 
 
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/gpt-text-generation.git
-cd gpt-text-generation
+git clone https://github.com/IamSmokeY/Shakespeare-GPT.git
+cd Shakespeare-GPT
 2. Install the required packages:
 bash
 pip install -r requirements.txt
